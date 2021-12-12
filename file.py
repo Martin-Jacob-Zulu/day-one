@@ -1,6 +1,4 @@
 #Strings
-import math
-
 string = "We have done strings"
 #string[1] = "good" # This can't be done
 len(string) # This returns the number characters that a string has
