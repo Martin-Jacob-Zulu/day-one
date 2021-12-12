@@ -1,1 +1,1 @@
-print("Day one")
+print("Day one of python bootcamp")
